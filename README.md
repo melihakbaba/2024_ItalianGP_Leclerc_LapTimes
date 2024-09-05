@@ -8,6 +8,6 @@ The 1st, 15th, and 16th laps were removed from the dataset. The reasons are:
 - The 16th round was the lap when the car exited the pit, so it includes the pit time as well.
 
 
-![C.Leclerc Lap Times](https://github.com/melihakbaba/deneme/blob/7b86e42c7744c54b2c4d7a9f83047b8b5bf361c8/Charles%20Leclerc's%202024%20Italian%20GP%20Lap%20Times%20Chart.png)
+![C.Leclerc Lap Times](https://github.com/melihakbaba/2024_ItalianGP_Leclerc_LapTimes/blob/ee33f3a5a7d44197b5d3c78188c55f170e072e35/Charles%20Leclerc's%202024%20Italian%20GP%20Lap%20Times%20Chart.png)
 
 
